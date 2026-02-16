@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-visvamazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88ef6878-5bdf-4a8a-8668-aa55068975cc",
+		"tenantId": "a722bb3d-1a5d-443f-997b-e94312e7a499"
+	}
+}
